@@ -66,5 +66,5 @@ SQLAlchemy==1.1.11
 sqlparse==0.2.3
 Tempita==0.5.2
 tenacity==4.4.0
-urllib3==1.22
+urllib3==1.24.2
 Werkzeug==0.12.2
